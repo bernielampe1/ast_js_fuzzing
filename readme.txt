@@ -34,8 +34,3 @@ mkdir t
 * References
 http://packages.python.org/slimit/
 
-* Contact Info.
-Bernie Lampe
-blampe@sigovs
-Cell: (734) 223-9620
-
